@@ -51,7 +51,7 @@ admin.site.register(Student,StudentAdmin)
 
 ```
 ## OUTPUT
-
+![web ex02](https://github.com/vikamuhan-reddy/django-orm-app/assets/144928933/2ae4e8a0-30c7-4c8d-b656-e86c2eae0f37)
 
 ## RESULT
 we have successfully ten student user using ORM
