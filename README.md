@@ -53,5 +53,7 @@ admin.site.register(Student,StudentAdmin)
 ## OUTPUT
 ![output](./web%20ex02.png)
 
+
+
 ## RESULT
 we have successfully ten student user using ORM
