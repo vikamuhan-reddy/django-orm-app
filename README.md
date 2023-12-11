@@ -34,7 +34,7 @@ class Student (models.Model):
     name=models.CharField(max_length=100)
     age=models.IntegerField()
     email=models.EmailField()
-    mobilenummber=models.IntergerField()
+    mobilenummber=models.IntegerField()
 
 
 class StudentAdmin(admin.ModelAdmin):
